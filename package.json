@@ -1,0 +1,23 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "RESTful API"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VRBA0619/RESTful-API.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "Val Rhyan Alfanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VRBA0619/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/VRBA0619/RESTful-API#readme"
+}
